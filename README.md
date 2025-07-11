@@ -100,7 +100,7 @@ mô hình đạt 99.5% độ chính xác trung bình khi tính tại ngưỡng I
 mô hình đạt 99.5% độ chính xác trung bình khi tính tại ngưỡng IoU = 0.5
 
 <p align="center">
-  <img src="OCR_on_val_dataset.jpg" width="500" alt="idea"/>
+  <img src="result/OCR_on_val_dataset.jpg" width="500" alt="idea"/>
 </p>
 
 ## Nhận xét
